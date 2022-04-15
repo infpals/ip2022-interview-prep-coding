@@ -15,4 +15,4 @@ Useful links:
 - [LeetCode](https://leetcode.com/) - Free Platform to do Practice Interview Questions
 - [HackerRank](https://www.hackerrank.com/) - Free Platform to do Practice Interview Questions
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) - List of common questions/exercises asked on Coding Interviews
-- [Coding Interview Books](https://www.pdfdrive.com/cra cking-the-coding-interview- books.html)
+- [Coding Interview Books](https://www.pdfdrive.com/cracking-the-coding-interview- books.html)
